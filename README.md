@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyashiweb07@gmail.com**
 
-- ⚡ Fun fact **I love to eat chocolate**
+- ⚡  **I love to eat chocolate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
