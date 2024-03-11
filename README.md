@@ -48,3 +48,17 @@
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+              
+ <details>
+<p align="center">
+  <a href="https://github.com/priyanshi077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshi077&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyanshi077">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi077&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyanshi077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshi077&theme=transparent" />
+  </a>
+  <a href="https://github.com/priyanshi077">
