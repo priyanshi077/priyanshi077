@@ -1,4 +1,4 @@
-![Banner GitHub](https://ibb.co/3sh0P0v)
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Priyanshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
