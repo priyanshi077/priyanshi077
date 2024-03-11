@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi077" alt="priyanshi077" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs and Tailwind**
+- 🌱 I’m currently learning  **Reactjs and Tailwind**
 
 - 💬 Ask me about **HTML , CSS and Javascript**
 
