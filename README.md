@@ -43,4 +43,8 @@
                 alt="priyanshi077" height="170" /></p>
                 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi077&" alt="priyanshi077" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi077&theme=dark&hide_border=false" alt="priyanshi077" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
